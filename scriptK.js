@@ -96,7 +96,7 @@
 
  
  
-function functionImgPenaflix() {window.location.href = "https://penaflix.es";}
+function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
   window.location.href = "https://e.pcloud.link/publink/show?code=XZlT577ZdVpyYpiF8RjOD7sB0zXWvyoT1WPy";

@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function() {
  
 });     
  
-function functionImgPenaflix() {window.location.href = "https://penaflix.es";}
+function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgSerie1() {
   window.open("https://penaflix.es/Series/S1.mkv");
