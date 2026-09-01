@@ -121,7 +121,8 @@ function functionImgPena4() {
   localStorage.setItem("SaveImgPenaBorder4", "5px solid red");
 }
 function functionImgPena5() {
-  window.location.href = "https://nervouswreckradio.online/Eric/6.mkv";
+  // pclud amrum 
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZkwH77ZuaTbkUNrXq4QjEIvOXhrH48sqAb7";
   ImgPena5.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder5", "5px solid red");
 }
