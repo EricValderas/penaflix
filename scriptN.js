@@ -110,7 +110,7 @@ function functionImgPena2() {
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }
 function functionImgPena3() {
-  //p cloud eric cire rice
+  //p cloud eric cire rice superman
   window.location.href = "https://e.pcloud.link/publink/show?code=XZrCH77ZJDjqpQzCcEF2f1Wy4sT7LBHm2NlV";
   ImgPena3.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
