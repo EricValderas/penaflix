@@ -109,7 +109,7 @@ function functionImgPena2() {
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }
 function functionImgPena3() {
-  window.location.href = "https://penaflix.es/Kids/ar.mkv";
+  window.location.href = "https://drive.google.com/file/d/1sW0YndDNnTE6P9gQkrm-VdHvOsxzje5b/view?usp=sharing";
   ImgPena3.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
 }
