@@ -99,6 +99,7 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
+  //p cloud huggy valderas
   window.location.href = "https://e.pcloud.link/publink/show?code=XZvPJ77ZLdxRBjHMjPH2Em2zWsfc2JQXnRgy";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
@@ -109,7 +110,8 @@ function functionImgPena2() {
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }
 function functionImgPena3() {
-  window.location.href = "https://drive.google.com/file/d/1sW0YndDNnTE6P9gQkrm-VdHvOsxzje5b/view?usp=sharing";
+  //p cloud eric cire rice
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZrCH77ZJDjqpQzCcEF2f1Wy4sT7LBHm2NlV";
   ImgPena3.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
 }
@@ -154,6 +156,7 @@ function functionImgPena11() {
   localStorage.setItem("SaveImgPenaBorder11", "5px solid red");
 }
 function functionImgPena12() {
+  //p cloud antikampa resurrection
   window.location.href = "https://e.pcloud.link/publink/show?code=XZ6fV77ZueLW3f0dG2j64fPp8qgGp5X57QeV";
   ImgPena12.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder12", "5px solid red");
@@ -164,6 +167,7 @@ function functionImgPena13() {
   localStorage.setItem("SaveImgPenaBorder13", "5px solid red");
 }
 function functionImgPena14() {
+  // p cloud ivychuela ken loach
   window.location.href = "https://e.pcloud.link/publink/show?code=XZgIJ77ZoLMgReU99Dfgczgn33Rl7BjTmllV";
   ImgPena14.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder14", "5px solid red");
