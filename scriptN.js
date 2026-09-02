@@ -147,7 +147,8 @@ function functionImgPena9() {
   localStorage.setItem("SaveImgPenaBorder9", "5px solid red");
 }
 function functionImgPena10() {
-  window.location.href = "https://drive.google.com/file/d/1poctXikxoqVlWTyz0k27KtcdMs69Rzox/view?usp=drive_link";
+  //p cloud biblioteca cole ovejas detective
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZozR77ZsMG9JnGRsyk37aS2AI8TXfsgDxq7";
   ImgPena10.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder10", "5px solid red");
 }
