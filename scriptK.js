@@ -131,7 +131,7 @@ function functionImgPena6() {
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }
 function functionImgPena7() {
-  window.location.href ="https://nervouswreckradio.online/Kids/1.mkv";
+  window.location.href ="https://drive.google.com/file/d/175hpZ8B6lWGbTWY482jDUkUtztJG2cvK/view?usp=sharing";
   ImgPena7.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder7", "5px solid red");
 }
