@@ -183,6 +183,7 @@ function functionImgSerie10() {
 
 }
 
+// ubicacion serie google drive ivychuela
 function functionImgArcher1() {
   window.open("https://drive.google.com/file/d/13ZOBEyS9eFq38AUePN7g3-jQ2RqbF3F9/view?usp=drive_link");
   ImgArcher1.style.border="5px solid red";
