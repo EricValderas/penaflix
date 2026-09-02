@@ -189,27 +189,27 @@ function functionImgArcher1() {
   localStorage.setItem("SaveImgArcherBorder1", "5px solid red");
 }
 function functionImgArcher2() {
-  window.open("https://nervouswreckradio.online/Marian/2.mkv");
+  window.open("https://drive.google.com/file/d/1XrrvbQbbxN2MsGvCretMDsWnJLsX8Bi2/view?usp=sharing");
   ImgArcher2.style.border="5px solid red";
   localStorage.setItem("SaveImgArcherBorder2", "5px solid red");
 }
 function functionImgArcher3() {
-  window.open("https://nervouswreckradio.online/Marian/3.mkv");
+  window.open("https://drive.google.com/file/d/1y_bRYH5fd8aYMUIhqvHrIvTgIwh0FhpT/view?usp=sharing");
   ImgArcher3.style.border="5px solid red";
   localStorage.setItem("SaveImgArcherBorder3", "5px solid red");
 }
 function functionImgArcher4() {
-  window.open("https://nervouswreckradio.online/Marian/4.mkv");
+  window.open("https://drive.google.com/file/d/16WmPpt8Z5zfxvHUOw2Fbj5aHe6LxFHv9/view?usp=drive_link");
   ImgArcher4.style.border="5px solid red";
   localStorage.setItem("SaveImgArcherBorder4", "5px solid red");
 }
 function functionImgArcher5() {
-  window.open("https://nervouswreckradio.online/Marian/5.mkv");
+  window.open("https://drive.google.com/file/d/16Ae7LH4OX3leucwIE5vd9TG0G-L6mszb/view?usp=sharing");
   ImgArcher5.style.border="5px solid red";
   localStorage.setItem("SaveImgArcherBorder5", "5px solid red");
 }
 function functionImgArcher6() {
-  window.open("https://nervouswreckradio.online/Marian/6.mkv");
+  window.open("https://drive.google.com/file/d/1VRZQ5XiRzU13zDiR4XO-528pnTGrP-_G/view?usp=sharing");
   ImgArcher6.style.border="5px solid red";
   localStorage.setItem("SaveImgArcherBorder6", "5px solid red");
 }
