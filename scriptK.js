@@ -104,7 +104,7 @@ function functionImgPena1() {
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
 function functionImgPena2() {
-  window.location.href = "https://drive.proton.me/urls/G87EJ8NK94#6njMlGixUOzC";
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZl4R77ZpQN0vbyMBv5982ajufJUT5GJUlXk";
   ImgPena2.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }
