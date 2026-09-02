@@ -126,12 +126,12 @@ function functionImgPena5() {
   localStorage.setItem("SaveImgPenaBorder5", "5px solid red");
 }
 function functionImgPena6() {
-  window.location.href = "https://drive.google.com/file/d/13mI4j0pEMM0FXeHmw0FwiXzcIsZO0Ko-/view?usp=sharing";
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZ93z77ZrpBJJBuwVMLBSdFFBRVQzfTYJwMX";
   ImgPena6.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }
 function functionImgPena7() {
-  window.location.href ="https://e.pcloud.link/publink/show?code=XZ93z77ZrpBJJBuwVMLBSdFFBRVQzfTYJwMX";
+  window.location.href ="https://e.pcloud.link/publink/show?code=XZuGz77ZVpBOHAq9T1FTgJhf2jIHYJgSoHGV";
   ImgPena7.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder7", "5px solid red");
 }
