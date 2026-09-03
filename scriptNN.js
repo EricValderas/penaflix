@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgSerie1() {
-  window.open("https://penaflix.es/Series/S1.mkv");
+  window.open("https://drive.google.com/file/d/1iEMBYkxKJZy3rB2Wd2fySvWAiWtuvkuW/view?usp=sharing");
   ImgSerie1.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder1", "5px solid red");
 }
@@ -171,13 +171,13 @@ function functionImgSerie8() {
 
 }
 function functionImgSerie9() {
-  window.open("https://nervouswreckradio.online/Series/S9.mkv");
+  window.open("");
   ImgSerie9.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder9", "5px solid red");
 
 }
 function functionImgSerie10() {
-  window.open("https://nervouswreckradio.online/Series/S10.mkv");
+  window.open("");
   ImgSerie10.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder10", "5px solid red");
 
