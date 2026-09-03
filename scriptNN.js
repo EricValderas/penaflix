@@ -129,25 +129,25 @@ function functionImgSerie1() {
   localStorage.setItem("SaveImgBorder1", "5px solid red");
 }
 function functionImgSerie2() {
-  window.open("https://penaflix.es/Series/S2.mkv");
+  window.open("https://drive.google.com/file/d/17ra9_ta_AYdg3YD6o_h-v2zVtqp_zYhy/view?usp=drive_link");
   ImgSerie2.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder2", "5px solid red");
 
 }
 function functionImgSerie3() {
-  window.open("https://penaflix.es/Series/S3.mkv");
+  window.open("https://drive.google.com/file/d/1WTXTX4-eArSzgO8qIxZh12LlWrVOfWr9/view?usp=sharing");
   ImgSerie3.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder3", "5px solid red");
 
 }
 function functionImgSerie4() {
-  window.open("https://penaflix.es/Series/S4.mkv");
+  window.open("https://drive.google.com/file/d/1rwjQouky-QJV1J-aGQDxxDhuCUfy6jgJ/view?usp=sharing");
   ImgSerie4.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder4", "5px solid red");
 
 }
 function functionImgSerie5() {
-  window.open("https://penaflix.es/Series/S5.mkv");
+  window.open("https://drive.google.com/file/d/14nzZx8n37xzPYCo62EzgnSqNQbHIN9I8/view?usp=sharing");
   ImgSerie5.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder5", "5px solid red");
 

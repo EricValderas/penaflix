@@ -131,7 +131,9 @@ function functionImgPena6() {
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }
 function functionImgPena7() {
-  window.location.href ="https://e.pcloud.link/publink/show?code=XZuGz77ZVpBOHAq9T1FTgJhf2jIHYJgSoHGV";
+  //https://icedrive.net/s/46yjkZbaTWCwVxxYYwi7VhtGPuwa
+  //https://e.pcloud.link/publink/show?code=XZuGz77ZVpBOHAq9T1FTgJhf2jIHYJgSoHGV
+  window.location.href ="https://icedrive.net/s/46yjkZbaTWCwVxxYYwi7VhtGPuwa";
   ImgPena7.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder7", "5px solid red");
 }
