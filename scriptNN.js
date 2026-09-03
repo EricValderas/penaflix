@@ -227,7 +227,7 @@ function functionImgArcher8() {
 
 
 function functionImgTed1() {
-  window.location.href = "https://penaflix.es/Series/1.mkv";
+  window.location.href = "https://drive.google.com/file/d/1Bm_5uJxDfy4QPVoVDZyXInInjxb2icC-/view?usp=sharing";
   ImgTed1.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder1", "5px solid red");
  

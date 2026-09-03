@@ -158,8 +158,8 @@ function functionImgPena11() {
   localStorage.setItem("SaveImgPenaBorder11", "5px solid red");
 }
 function functionImgPena12() {
-  //p cloud antikampa resurrection
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZ6fV77ZueLW3f0dG2j64fPp8qgGp5X57QeV";
+  //silo google drive eric v developer
+  window.location.href = "https://drive.google.com/file/d/1v1qQKmYHtLXi-0-OIOP9dBpnFGp3WNxh/view?usp=sharing";
   ImgPena12.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder12", "5px solid red");
 }
