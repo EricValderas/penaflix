@@ -153,19 +153,19 @@ function functionImgSerie5() {
 
 }
 function functionImgSerie6() {
-  window.open("https://penaflix.es/Series/S6.mkv");
+  window.open("https://drive.google.com/file/d/11Sxg7q8Jm4E_kt_7fL6loSWRX6VEdBhD/view?usp=sharing");
   ImgSerie6.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder6", "5px solid red");
 
 }
 function functionImgSerie7() {
-  window.open("https://penaflix.es/Series/S7.mkv");
+  window.open("https://drive.google.com/file/d/1QWNHCllsMM9XlFMm8vGoO5hMpK3O2QO_/view?usp=sharing");
   ImgSerie7.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder7", "5px solid red");
 
 }
 function functionImgSerie8() {
-  window.open("https://penaflix.es/Series/S8.mkv");
+  window.open("https://drive.google.com/file/d/1P31AJA14qH7ZmNXpLK3vVLUuv5NAht6m/view?usp=sharing");
   ImgSerie8.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder8", "5px solid red");
 
