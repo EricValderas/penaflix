@@ -164,7 +164,7 @@ function functionImgPena12() {
   localStorage.setItem("SaveImgPenaBorder12", "5px solid red");
 }
 function functionImgPena13() {
-  window.location.href = "https://nervouswreckradio.online/Pelis/3.mkv";;
+  window.location.href = "https://drive.google.com/file/d/1sqTvRImucy_FVl10YdwVwaF__vCIhYXx/view?usp=sharing";;
   ImgPena13.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder13", "5px solid red");
 }
