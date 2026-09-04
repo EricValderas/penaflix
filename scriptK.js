@@ -104,7 +104,7 @@ function functionImgPena1() {
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
 function functionImgPena2() {
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZl4R77ZpQN0vbyMBv5982ajufJUT5GJUlXk";
+  window.location.href = "https://mega.nz/file/XhxBGAqR#GZDlBD9i92bHNmDbG0CbwbF9zC2FzotgfQCpCKGj6_o";
   ImgPena2.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }

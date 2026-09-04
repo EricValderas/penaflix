@@ -111,7 +111,7 @@ function functionImgPena2() {
 }
 function functionImgPena3() {
   //p cloud eric cire rice superman
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZrCH77ZJDjqpQzCcEF2f1Wy4sT7LBHm2NlV";
+  window.location.href = "https://mega.nz/file/C15HwYBK#uTGuy-v4n5XCxpz9xUmxAj9cHb5DdD8SsB3ICiIXrZQ";
   ImgPena3.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
 }
