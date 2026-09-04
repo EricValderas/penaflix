@@ -138,12 +138,14 @@ function functionImgPena7() {
   localStorage.setItem("SaveImgPenaBorder7", "5px solid red");
 }
 function functionImgPena8() {
+  // p cloud aracne
   window.location.href = "https://e.pcloud.link/publink/show?code=XZcW577ZXTjS7g53RGkEJUBGPxhRBzIaQBUy";
   ImgPena8.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder8", "5px solid red");
 }
 function functionImgPena9() {
-  window.location.href = "https://nervouswreckradio.online/Pelis/2.mkv";
+  //p cloud antikampa
+  window.location.href = "https://e.pcloud.link/publink/show?code=XZUzQ77Z57Ceg1y5NOyPPNWa75CWnm5BegFV";
   ImgPena9.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder9", "5px solid red");
 }
