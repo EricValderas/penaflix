@@ -99,8 +99,8 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  //p cloud huggy valderas
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZvPJ77ZLdxRBjHMjPH2Em2zWsfc2JQXnRgy";
+  //google drive atreides
+  window.location.href = "https://drive.google.com/file/d/1pnUCNPKE87GmPFeM8euko84T_wQu93BM/view?usp=sharing";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
