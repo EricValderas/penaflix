@@ -99,8 +99,7 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  //google drive atreides
-  window.location.href = "https://drive.google.com/file/d/1pnUCNPKE87GmPFeM8euko84T_wQu93BM/view?usp=sharing";
+  window.location.href = "";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
@@ -123,12 +122,12 @@ function functionImgPena4() {
 }
 function functionImgPena5() {
   // pclud amrum 
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZkwH77ZuaTbkUNrXq4QjEIvOXhrH48sqAb7";
+  window.location.href = "https://drive.google.com/file/d/1ouf7XD-sDbUozZuYnsoo6J6CIaGerLjk/view?usp=sharing";
   ImgPena5.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder5", "5px solid red");
 }
 function functionImgPena6() {
-  window.location.href = "https://drive.google.com/file/d/13mI4j0pEMM0FXeHmw0FwiXzcIsZO0Ko-/view?usp=sharing";
+  window.location.href = "https://drive.google.com/file/d/1cL24ucgkzcfDg6SmBmUowdqLZVKyaHnd/view?usp=drive_link";
   ImgPena6.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }

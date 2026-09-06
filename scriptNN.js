@@ -227,7 +227,8 @@ function functionImgArcher8() {
 
 
 function functionImgTed1() {
-  window.location.href = "https://drive.google.com/file/d/1Bm_5uJxDfy4QPVoVDZyXInInjxb2icC-/view?usp=sharing";
+  //Bienvenido al club drive ericvdeveloper
+  window.location.href = "https://drive.google.com/file/d/16_WTxUZJo1UIvUKM9-qPFb0wSkb3TWf6/view?usp=sharing";
   ImgTed1.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder1", "5px solid red");
  

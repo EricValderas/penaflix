@@ -99,7 +99,7 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZlT577ZdVpyYpiF8RjOD7sB0zXWvyoT1WPy";
+  window.location.href = "https://icedrive.net/s/QGtZ6wPgZNSACtwBabB4DCV6bXhR";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
@@ -126,7 +126,7 @@ function functionImgPena5() {
   localStorage.setItem("SaveImgPenaBorder5", "5px solid red");
 }
 function functionImgPena6() {
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZ93z77ZrpBJJBuwVMLBSdFFBRVQzfTYJwMX";
+  window.location.href = "https://drive.google.com/file/d/13mI4j0pEMM0FXeHmw0FwiXzcIsZO0Ko-/view?usp=sharing";
   ImgPena6.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }
@@ -155,8 +155,8 @@ function functionImgPena10() {
   localStorage.setItem("SaveImgPenaBorder10", "5px solid red");
 }
 function functionImgPena11() {
-  // p clousd cumpleanosivy
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZKnQ77Z9zBRQ8PHSiVBm6BMDAEASme3omKX";
+  // drive aracne
+  window.location.href = "https://drive.google.com/file/d/1NxRNQviwVz0-kwBVuqwOZv9ZtvgJFQ9h/view?usp=sharing";
   ImgPena11.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder11", "5px solid red");
 }
