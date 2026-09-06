@@ -99,7 +99,7 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  window.location.href = "https://icedrive.net/s/QGtZ6wPgZNSACtwBabB4DCV6bXhR";
+  window.location.href = "https://drive.google.com/file/d/1YF495H2JU3Ur0AnrIrTPHyZXr1OxXvjH/view?usp=sharing";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
@@ -150,7 +150,7 @@ function functionImgPena9() {
   localStorage.setItem("SaveImgPenaBorder9", "5px solid red");
 }
 function functionImgPena10() {
-  window.location.href = "https://penaflix.es/Web/Pelis/1.mkv";
+  window.location.href = "https://drive.google.com/file/d/1ug50R_VJlZBJ325kjAuKVCg8tXEx5g7i/view?usp=sharing";
   ImgPena10.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder10", "5px solid red");
 }
