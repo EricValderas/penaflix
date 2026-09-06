@@ -99,7 +99,7 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  window.location.href = "";
+  window.location.href = "https://drive.google.com/file/d/1j6PHsDMqhGW0M8PrHgp5M8p4FKEQT1-D/view?usp=sharing";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }

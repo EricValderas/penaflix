@@ -139,7 +139,7 @@ function functionImgPena7() {
 }
 function functionImgPena8() {
   // p cloud aracne
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZcW577ZXTjS7g53RGkEJUBGPxhRBzIaQBUy";
+  window.location.href = "https://drive.google.com/file/d/1R58I9GnlST9nNtW61NM4rUQ8KAKpJsPk/view?usp=sharing";
   ImgPena8.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder8", "5px solid red");
 }
