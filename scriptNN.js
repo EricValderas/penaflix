@@ -234,7 +234,8 @@ function functionImgTed1() {
  
 }
 function functionImgTed2() {
-  window.location.href = "https://penaflix.es/Series/2.mkv";
+  // google drive aracne casa nostra
+  window.location.href = "https://drive.google.com/file/d/1fHLgrELZp1Xs0BN7KwdnUX9q8zSvhn7T/view?usp=sharing";
   ImgTed2.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder2", "5px solid red");
 
