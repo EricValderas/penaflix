@@ -131,9 +131,7 @@ function functionImgPena6() {
   localStorage.setItem("SaveImgPenaBorder6", "5px solid red");
 }
 function functionImgPena7() {
-  //https://icedrive.net/s/46yjkZbaTWCwVxxYYwi7VhtGPuwa
-  //https://e.pcloud.link/publink/show?code=XZuGz77ZVpBOHAq9T1FTgJhf2jIHYJgSoHGV
-  window.location.href ="https://icedrive.net/s/46yjkZbaTWCwVxxYYwi7VhtGPuwa";
+  window.location.href ="https://drive.google.com/file/d/1TSzxm3RGhv8_wMNlT7sTyIXrTmr3mdA_/view?usp=sharing";
   ImgPena7.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder7", "5px solid red");
 }

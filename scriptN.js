@@ -148,8 +148,8 @@ function functionImgPena9() {
   localStorage.setItem("SaveImgPenaBorder9", "5px solid red");
 }
 function functionImgPena10() {
-  //p cloud biblioteca cole ovejas detective
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZozR77ZsMG9JnGRsyk37aS2AI8TXfsgDxq7";
+  //google drive aracne pizza movies
+  window.location.href = "https://drive.google.com/file/d/15fcU3BduUtNWrkcLLoSmPEC2SwqhngD6/view?usp=sharing";
   ImgPena10.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder10", "5px solid red");
 }
