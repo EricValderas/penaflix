@@ -169,8 +169,8 @@ function functionImgPena13() {
   localStorage.setItem("SaveImgPenaBorder13", "5px solid red");
 }
 function functionImgPena14() {
-  // p cloud ivychuela ken loach
-  window.location.href = "https://e.pcloud.link/publink/show?code=XZgIJ77ZoLMgReU99Dfgczgn33Rl7BjTmllV";
+  // google drive aracne ken loach
+  window.location.href = "https://drive.google.com/file/d/1q0Di6wNAmwEospHR1KoUVMF8mrV3eWc3/view?usp=sharing";
   ImgPena14.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder14", "5px solid red");
 }
