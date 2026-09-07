@@ -159,8 +159,7 @@ function functionImgPena11() {
   localStorage.setItem("SaveImgPenaBorder11", "5px solid red");
 }
 function functionImgPena12() {
-  //silo google drive eric v developer
-  window.location.href = "https://drive.google.com/file/d/1v1qQKmYHtLXi-0-OIOP9dBpnFGp3WNxh/view?usp=sharing";
+  window.location.href = "https://drive.google.com/file/d/1CQkrb48xb3HcCN9D04qVeLbSPdZKhi8O/view?usp=sharing";
   ImgPena12.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder12", "5px solid red");
 }
