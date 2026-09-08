@@ -235,7 +235,7 @@ function functionImgTed1() {
 }
 function functionImgTed2() {
   // google drive aracne casa nostra
-  window.location.href = "https://drive.google.com/file/d/1fHLgrELZp1Xs0BN7KwdnUX9q8zSvhn7T/view?usp=sharing";
+  window.location.href = "https://1drv.ms/v/c/0a745d8939d0621b/IQCU9PyGgPydQ6MoiPZfrIxHAfqHYvhm084DcQuC40dUi5c?e=VnHqam";
   ImgTed2.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder2", "5px solid red");
 
