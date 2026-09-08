@@ -227,36 +227,36 @@ function functionImgArcher8() {
 
 
 function functionImgTed1() {
-  //Bienvenido al club drive ericvdeveloper
-  window.location.href = "https://drive.google.com/file/d/16_WTxUZJo1UIvUKM9-qPFb0wSkb3TWf6/view?usp=sharing";
+  //google drive aracne caballero
+  window.location.href = "https://drive.google.com/file/d/13Lqmjm4ZdJAv6lHeY0uEtqwL5neb-RIi/view?usp=sharing";
   ImgTed1.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder1", "5px solid red");
  
 }
 function functionImgTed2() {
-  // google drive aracne casa nostra
-  window.location.href = "https://drive.google.com/file/d/13Lqmjm4ZdJAv6lHeY0uEtqwL5neb-RIi/view?usp=sharing";
+  // 
+  window.location.href = "https://drive.google.com/file/d/1Q5gDz4RZdXCCIBDvVBt3uculQge3ZcuF/view?usp=sharing";
   ImgTed2.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder2", "5px solid red");
 
 }
 function functionImgTed3() {
-  window.location.href = "https://penaflix.es/Series/3.mkv";
+  window.location.href = "https://drive.google.com/file/d/16o8iCBFRnpPlQb8Sx2_0mzGnPzkyeH1G/view?usp=sharing";
   ImgTed3.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder3", "5px solid red");
 }
 function functionImgTed4() {
-  window.location.href = "https://penaflix.es/Series/4.mkv";
+  window.location.href = "https://drive.google.com/file/d/1--Wsw3uT_SDegXDhw5brxvqTX8qI5rmJ/view?usp=sharing";
   ImgTed4.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder4", "5px solid red");
 }
 function functionImgTed5() {
-  window.location.href = "https://penaflix.es/Series/5.mkv";
+  window.location.href = "https://drive.google.com/file/d/1s0mBRj3MX05jV3ADnJ0whcXB4op_qq1a/view?usp=sharing";
   ImgTed5.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder5", "5px solid red");
 }
 function functionImgTed6() {
-  window.location.href = "https://penaflix.es/Series/6.mkv";
+  window.location.href = "https://drive.google.com/file/d/1l41Fk-6G3zY45zQfstFK-QpwCefA3Dmx/view?usp=sharing";
   ImgTed6.style.border="5px solid red";
   localStorage.setItem("SaveImgTedBorder6", "5px solid red");
 }
