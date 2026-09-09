@@ -115,7 +115,7 @@ function functionImgPena3() {
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
 }
 function functionImgPena4() {
-  window.location.href = "https://drive.google.com/file/d/1E-8mW98ILcmiG0g2JtHfU7jKPvLTICoN/view?usp=drive_link";
+  window.location.href = "https://drive.google.com/file/d/1gZtn1YOKbaJoFSocc5t95mnotrlnBZL0/view?usp=sharing";
   ImgPena4.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder4", "5px solid red");
 }
