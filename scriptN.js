@@ -99,12 +99,12 @@
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgPena1() {
-  window.location.href = "https://drive.google.com/file/d/1j6PHsDMqhGW0M8PrHgp5M8p4FKEQT1-D/view?usp=sharing";
+  window.location.href = "https://www.arte.tv/es/videos/118617-000-A/el-ultimo-verano-de-la-rda/";
   ImgPena1.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder1", "5px solid red");
 }
 function functionImgPena2() {
-  window.location.href = "https://drive.google.com/file/d/1k5XhMS956BYKpaQ09g_55NbneyLaB3b-/view?usp=sharing";
+  window.location.href = "https://www.arte.tv/es/";
   ImgPena2.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder2", "5px solid red");
 }
@@ -116,7 +116,7 @@ function functionImgPena3() {
 }
 function functionImgPena4() {
   // g drive ericvdev
-  window.location.href = "https://drive.google.com/file/d/1F3JUVbRfCBvlIvLy3MtodZ7_ugYlEGvm/view?usp=sharing";
+  window.location.href = "https://1drv.ms/v/c/0a745d8939d0621b/IQDfg_bbiRgtRIWLBU2B25J3AYOMrYwdii7yi3IpFXkYOKk?e=VHocN6";
   ImgPena4.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder4", "5px solid red");
 }
