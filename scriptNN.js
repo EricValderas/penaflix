@@ -129,7 +129,7 @@ function functionImgSerie1() {
   localStorage.setItem("SaveImgBorder1", "5px solid red");
 }
 function functionImgSerie2() {
-  window.open("https://drive.google.com/file/d/17ra9_ta_AYdg3YD6o_h-v2zVtqp_zYhy/view?usp=drive_link");
+  window.open("https://drive.google.com/file/d/1V5rzhi69ODaZYky1e0dMxOX6i6W6mmLu/view?usp=sharing");
   ImgSerie2.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder2", "5px solid red");
 
