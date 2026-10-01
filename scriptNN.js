@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function functionImgPenaflix() {window.location.href = "https://ericvalderas.github.io/penaflix/";}
 
 function functionImgSerie1() {
-  window.open("https://drive.google.com/file/d/1iEMBYkxKJZy3rB2Wd2fySvWAiWtuvkuW/view?usp=sharing");
+  window.open("https://drive.google.com/file/d/151IxlI7RrOJa_pqEoruNCSr8efo28QrC/view?usp=sharing");
   ImgSerie1.style.border="5px solid red";
   localStorage.setItem("SaveImgBorder1", "5px solid red");
 }

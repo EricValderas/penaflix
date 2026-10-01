@@ -115,7 +115,7 @@ function functionImgPena3() {
   localStorage.setItem("SaveImgPenaBorder3", "5px solid red");
 }
 function functionImgPena4() {
-  // g drive ericvdev
+  // one drve cumpe ivy
   window.location.href = "https://1drv.ms/v/c/0a745d8939d0621b/IQDfg_bbiRgtRIWLBU2B25J3AYOMrYwdii7yi3IpFXkYOKk?e=VHocN6";
   ImgPena4.style.border="5px solid red";
   localStorage.setItem("SaveImgPenaBorder4", "5px solid red");
